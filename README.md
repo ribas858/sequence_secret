@@ -1,12 +1,13 @@
 # Sequência Secreta
+&nbsp;Acesse o problema diretamente no site pelo link abaixo.<br/>
+&nbsp;&nbsp;&nbsp;https://olimpiada.ic.unicamp.br/pratique/pj/2019/f1/secreta/<br/>
+&nbsp;Caso prefira, o problema tambem está apresentado aqui, logo após a solução.
 
 <h3>Solução</h3>
 
-&nbsp; Minha solução foi baseada em uma lista em que se é armazedado uma sequência de tamanho e valores fornecidos pelo usuário. Com isso eu crio duas Listas, uma com a sequência e outra com os números a serem circulados. De acordo com as regras, a sequência de números circulados não pode ter dois números consecutivos iguais, diante disso eu percorro a sequência fornecida pelo usuário e comparo com os números já circulados, armazedado em outra lista. Contudo é possível obter o número máximo de números circulados na sequência, sem repeti-los consecutivamente.<br/><br/>
+&nbsp; Minha solução foi baseada em uma lista em que se é armazedado uma sequência de tamanho e valores fornecidos pelo usuário. Com isso eu crio duas Listas, uma com a sequência e outra com os números a serem circulados. De acordo com as regras, a sequência de números circulados não pode ter dois números consecutivos iguais, diante disso eu percorro a sequência fornecida pelo usuário e comparo com os números já circulados, armazedado em outra lista. Contudo é possível obter o número máximo de números circulados na sequência, sem repeti-los consecutivamente.<br/>
 
-&nbsp; Segue abaixo a aprensentação do problema.<br/><br/>
-
-&nbsp;Caso queira acessar diretamente no site basta seguir o link: https://olimpiada.ic.unicamp.br/pratique/pj/2019/f1/secreta/
+&nbsp; Segue abaixo a aprensentação do problema.<br/>
 
 <h3>Problema</h3>
 
