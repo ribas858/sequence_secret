@@ -1,6 +1,6 @@
 # Sequência Secreta
 &nbsp;Acesse o problema diretamente no site pelo link abaixo.<br/>
-&nbsp;&nbsp;&nbsp;https://olimpiada.ic.unicamp.br/pratique/pj/2019/f1/secreta/ <br/>
+&nbsp;&nbsp;&nbsp;https://olimpiada.ic.unicamp.br/pratique/pj/2019/f1/secreta/ <br/><br/>
 &nbsp;Caso prefira, o problema tambem está apresentado aqui, logo após a solução.
 
 <h3>Solução</h3>
