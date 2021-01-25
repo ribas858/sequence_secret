@@ -5,7 +5,7 @@
 
 <h3>Solução</h3>
 
-&nbsp; Minha solução foi baseada em uma lista em que se é armazedado uma sequência de tamanho e valores fornecidos pelo usuário. Com isso eu crio duas Listas, uma com a sequência e outra com os números a serem circulados. De acordo com as regras, a sequência de números circulados não pode ter dois números consecutivos iguais, diante disso eu percorro a sequência fornecida pelo usuário e comparo com os números já circulados, armazedado em outra lista. Contudo é possível obter o número máximo de números circulados na sequência, sem repeti-los consecutivamente.<br/>
+&nbsp; Minha solução baseia-se em uma lista onde é armazenada uma sequência de tamanho e valores fornecidos pelo usuário. Com isso, criei duas listas, uma com a sequência e outra com os números a serem circulados. De acordo com as regras, a sequência de números circulados não pode ter dois números consecutivos iguais, diante disso, percorri a sequência fornecida pelo usuário e comparei com os números já circulados, armazenados em outra lista. Contudo, é possível obter o máximo de números circulados na sequência, sem repeti-los consecutivamente.<br/>
 
 &nbsp; Segue abaixo a aprensentação do problema.<br/>
 
