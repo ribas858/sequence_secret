@@ -1,5 +1,14 @@
 // Lucas Ribas - UnB - 2021
-///////////////////////////
+/////////////////////////// javac solucao.java /// java solucao //////////////
+
+// Minha solução baseia-se em uma lista onde é armazenada uma sequência
+// de tamanho e valores fornecidos pelo usuário. Com isso, criei duas listas,
+// uma com a sequência e outra com os números a serem circulados. De acordo 
+// com as regras, a sequência de números circulados não pode ter dois números 
+// consecutivos iguais, diante disso, percorri a sequência fornecida pelo
+// usuário e comparei com os números já circulados, armazenados em outra lista.
+// Contudo, é possível obter o máximo de números circulados na sequência, 
+// sem repeti-los consecutivamente.
 
 import java.util.ArrayList;
 import java.util.List;
